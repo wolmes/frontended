@@ -1,0 +1,7 @@
+.base-card-container{
+    width: 285px;
+    height: 564px;
+    padding: 43px 36px;
+    background-color: rgb(31, 31, 31);
+    border-radius: 10px;
+}

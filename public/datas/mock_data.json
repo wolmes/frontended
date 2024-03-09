@@ -1,0 +1,16 @@
+{
+  "avatarUrl": "../avatar-jessica.jpeg",
+  "personName": "Jessica Randall",
+  "country": [
+    "London",
+    "United Kingdom"
+  ],
+  "description": "Front-end developer and avid reader",
+  "tagList": [
+    "GitHub",
+    "Fronted Mentor",
+    "LinkedIn",
+    "Twitter",
+    "Instagram"
+  ]
+}

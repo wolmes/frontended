@@ -1,0 +1,10 @@
+:root {
+  /*font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;*/
+  color-scheme: light dark;
+  background-color: rgb(20,20,20);
+  font-family: "interVar";
+}
+@font-face {
+  font-family: "interVar";
+  src: url("./assets/Inter-Bold.ttf");
+}
